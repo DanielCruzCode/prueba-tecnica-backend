@@ -4,6 +4,7 @@
 
 Esta prueba fue realizada con la versión 11 de Java, y con el framework de Spring Boot, sus características importantes son:
 
+  Code editor: IntelliJIdea - Jetbrains code editor family
   Dependency manager: Maven
   ORM: Spring Boot JPA
   Database: PostgreSQL (Instalada y creada la base de datos que se menciona en el application.properties y las demás especificaciones de permisos)
